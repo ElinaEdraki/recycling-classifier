@@ -1,0 +1,16 @@
+# Data and model files
+data/
+*.pth
+*.pt
+*.ckpt
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
